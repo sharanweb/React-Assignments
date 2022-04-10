@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div>
-        <h1>Sharan</h1>
+        <h1>Sharan Web</h1>
       </div>
       <div className="flex">
         {links.map((e)=>{
